@@ -19,7 +19,7 @@ export default defineConfig({
     logo: "/logo.png",
     nav: [
       { text: '指南', link: '/guide/what-is-gecko' },
-      { text: '参考', link: '/reference/route-configuration' },
+      { text: '参考', link: '/reference/route' },
     ],
     sidebar: {
       '/guide/': [
