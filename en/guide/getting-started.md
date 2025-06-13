@@ -232,3 +232,8 @@ module.exports = {
   ...
 }
 ```
+
+`start` 脚本将启动具有即时热更新的本地开发服务器。使用以下命令运行它：
+```shell
+pnpm run start
+```
